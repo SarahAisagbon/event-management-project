@@ -1,0 +1,23 @@
+{
+    "e0001": {
+        "event_name": "Ben's Wedding",
+        "start_time": "11:30",
+        "end_time": "22:00",
+        "location": "Royal Hospital Chelsea",
+        "budget": 1000
+    },
+    "e0002": {
+        "event_name": "Emily's Christening",
+        "start_time": "10:00",
+        "end_time": "16:00",
+        "location": "St Pauls",
+        "budget": 2500
+    },
+    "e0003": {
+        "event_name": "Sarah's Birthday",
+        "start_time": "14:00",
+        "end_time": "23:00",
+        "location": "LSO",
+        "budget": 3000
+    }
+}
